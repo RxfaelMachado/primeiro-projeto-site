@@ -10,9 +10,9 @@ body {
 
 main {
     background-color: white;
-    width: 590;
+    width: 560;
     margin: auto;
-    padding: 15px;
+    padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.342);
 }
 
@@ -33,6 +33,7 @@ img.lado {
         text-decoration: none;
         font-weight: bold;
         color: blueviolet;
+        
     }
 
 a:hover {
